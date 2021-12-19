@@ -96,4 +96,4 @@ distTmp/
 outTmp/
 /test.output
 /kotlin-native/dist
-kotlin-ide/
+kotlin-ide/!/src/iTunes Music Library.xml
